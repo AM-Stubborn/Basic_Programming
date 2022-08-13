@@ -1,0 +1,15 @@
+E:\New Start\Learning\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.exe
+E:\New Start\Learning\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.deps.json
+E:\New Start\Learning\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.runtimeconfig.json
+E:\New Start\Learning\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.dll
+E:\New Start\Learning\StringReverse\StringReverse\bin\Debug\net6.0\StringReverse.pdb
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.csproj.AssemblyReference.cache
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.AssemblyInfoInputs.cache
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.AssemblyInfo.cs
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.csproj.CoreCompileInputs.cache
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.dll
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\refint\StringReverse.dll
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.pdb
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\StringReverse.genruntimeconfig.cache
+E:\New Start\Learning\StringReverse\StringReverse\obj\Debug\net6.0\ref\StringReverse.dll
