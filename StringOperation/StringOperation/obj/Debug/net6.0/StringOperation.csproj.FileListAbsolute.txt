@@ -1,0 +1,15 @@
+E:\New Start\Basic_Programming\StringOperation\StringOperation\bin\Debug\net6.0\StringOperation.exe
+E:\New Start\Basic_Programming\StringOperation\StringOperation\bin\Debug\net6.0\StringOperation.deps.json
+E:\New Start\Basic_Programming\StringOperation\StringOperation\bin\Debug\net6.0\StringOperation.runtimeconfig.json
+E:\New Start\Basic_Programming\StringOperation\StringOperation\bin\Debug\net6.0\StringOperation.dll
+E:\New Start\Basic_Programming\StringOperation\StringOperation\bin\Debug\net6.0\StringOperation.pdb
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\StringOperation.csproj.AssemblyReference.cache
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\StringOperation.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\StringOperation.AssemblyInfoInputs.cache
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\StringOperation.AssemblyInfo.cs
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\StringOperation.csproj.CoreCompileInputs.cache
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\StringOperation.dll
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\refint\StringOperation.dll
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\StringOperation.pdb
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\StringOperation.genruntimeconfig.cache
+E:\New Start\Basic_Programming\StringOperation\StringOperation\obj\Debug\net6.0\ref\StringOperation.dll
