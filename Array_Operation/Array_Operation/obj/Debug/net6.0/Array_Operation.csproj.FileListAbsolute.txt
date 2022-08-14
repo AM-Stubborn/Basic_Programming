@@ -1,0 +1,15 @@
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\bin\Debug\net6.0\Array_Operation.exe
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\bin\Debug\net6.0\Array_Operation.deps.json
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\bin\Debug\net6.0\Array_Operation.runtimeconfig.json
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\bin\Debug\net6.0\Array_Operation.dll
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\bin\Debug\net6.0\Array_Operation.pdb
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\Array_Operation.csproj.AssemblyReference.cache
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\Array_Operation.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\Array_Operation.AssemblyInfoInputs.cache
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\Array_Operation.AssemblyInfo.cs
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\Array_Operation.csproj.CoreCompileInputs.cache
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\Array_Operation.dll
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\refint\Array_Operation.dll
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\Array_Operation.pdb
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\Array_Operation.genruntimeconfig.cache
+E:\New Start\Basic_Programming\Array_Operation\Array_Operation\obj\Debug\net6.0\ref\Array_Operation.dll
