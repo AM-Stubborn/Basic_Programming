@@ -1,5 +1,6 @@
 ﻿
 /*
+
 Given an array, find the average of all subarrays of ‘K’ contiguous elements in it.
 
 Let’s understand this problem with a real input:
@@ -18,6 +19,7 @@ For the next 5 numbers (subarray from index 2-6), the average is: (2 + 6 - 1 + 4
 Here is the final output containing the averages of all subarrays of size 5:
 
 Output: [2.2, 2.8, 2.4, 3.6, 2.8]
+
 */
 
 Console.WriteLine("------------------------------ Welcome to Am_Stubborn Coding-----------------------------");
