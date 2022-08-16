@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Subarray With a Greater Sum (easy)", "Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy).csproj", "{74D98463-780A-495C-83FD-5011C4ADFDB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D98463-780A-495C-83FD-5011C4ADFDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D98463-780A-495C-83FD-5011C4ADFDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D98463-780A-495C-83FD-5011C4ADFDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D98463-780A-495C-83FD-5011C4ADFDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F53B49C-D4CC-4273-A774-368F536066D6}
+	EndGlobalSection
+EndGlobal

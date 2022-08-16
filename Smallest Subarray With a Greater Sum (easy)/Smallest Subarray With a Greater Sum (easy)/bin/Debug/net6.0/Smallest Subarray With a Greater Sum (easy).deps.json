@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Smallest Subarray With a Greater Sum (easy)/1.0.0": {
+        "runtime": {
+          "Smallest Subarray With a Greater Sum (easy).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smallest Subarray With a Greater Sum (easy)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

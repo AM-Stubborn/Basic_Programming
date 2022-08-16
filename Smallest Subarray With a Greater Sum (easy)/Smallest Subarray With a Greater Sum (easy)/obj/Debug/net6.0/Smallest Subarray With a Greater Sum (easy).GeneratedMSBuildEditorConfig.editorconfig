@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Smallest_Subarray_With_a_Greater_Sum__easy_
+build_property.ProjectDir = E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\

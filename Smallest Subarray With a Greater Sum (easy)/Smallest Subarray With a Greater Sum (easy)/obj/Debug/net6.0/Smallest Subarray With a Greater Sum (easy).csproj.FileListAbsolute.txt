@@ -1,0 +1,15 @@
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\bin\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).exe
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\bin\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).deps.json
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\bin\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).runtimeconfig.json
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\bin\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).dll
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\bin\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).pdb
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).csproj.AssemblyReference.cache
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).GeneratedMSBuildEditorConfig.editorconfig
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).AssemblyInfoInputs.cache
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).AssemblyInfo.cs
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).csproj.CoreCompileInputs.cache
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).dll
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\refint\Smallest Subarray With a Greater Sum (easy).dll
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).pdb
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\Smallest Subarray With a Greater Sum (easy).genruntimeconfig.cache
+E:\New Start\Basic_Programming\Smallest Subarray With a Greater Sum (easy)\Smallest Subarray With a Greater Sum (easy)\obj\Debug\net6.0\ref\Smallest Subarray With a Greater Sum (easy).dll
